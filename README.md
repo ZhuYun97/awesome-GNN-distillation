@@ -5,7 +5,7 @@ Papers of distilling Graph Neural Network
 3. [WWW2021] Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework\[[paper](https://arxiv.org/abs/2103.02885)\]\[[code](https://github.com/BUPT-GAMMA/CPF)\]
 4. [Arxiv2104] GKD: Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference \[[paper](https://arxiv.org/abs/2104.03597)\]\[code\]
 5. [Arxiv2105] Graph-Free Knowledge Distillation for Graph Neural Networks \[[paper](https://arxiv.org/pdf/2105.07519.pdf)\]\[code]
-6. [Arxiv2106] Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages \[[paper](https://arxiv.org/pdf/2106.08541.pdf)\]\[[]()\]
+6. [Arxiv2106] Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages \[[paper](https://arxiv.org/pdf/2106.08541.pdf)\]\[code\]
 7. [KDD2021] ROD: Reception-aware Online Distillation for Sparse Graphs \[[paper](https://arxiv.org/abs/2107.11789)\]\[[code](https://github.com/zwt233/ROD)\]
 8. [Arxiv2108] Transferring Knowledge Distillation for Multilingual Social Event Detection \[[paper](https://arxiv.org/abs/2108.03084)\]\[[code](https://github.com/RingBDStack/CLKD)\]
 9. [Arxiv2108] Distilling Holistic Knowledge with Graph Neural Networks \[[paper](Distilling Holistic Knowledge with Graph Neural Networks)\]\[code\]
