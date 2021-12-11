@@ -1,2 +1,15 @@
 # awesome-GNN-distillation
 papers of distilling Graph Neural Network
+1. [CVPR2020] Distilling Knowledge from Graph Convolutional Networks \[[]()\]\[[]()\]
+2. [] On Self-Distilling Graph Neural Network\[[]()\]\[[]()\]
+3. [] Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework\[[]()\]\[[]()\]
+4. [] GKD: Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference \[[]()\]\[[]()\]
+5. [] Graph-Free Knowledge Distillation for Graph Neural Networks \[[]()\]\[[]()\]
+6. [] Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages \[[]()\]\[[]()\]
+7. [] ROD: Reception-aware Online Distillation for Sparse Graphs \[[]()\]\[[]()\]
+8. [] Transferring Knowledge Distillation for Multilingual Social Event Detection \[[]()\]\[[]()\]
+9. [] Distilling Holistic Knowledge with Graph Neural Networks \[[]()\]\[[]()\]
+10. [] Scalable Consistency Training for Graph Neural Networks via Self-Ensemble Self-Distillation \[[]()\]\[[]()\]
+11. [] Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation \[[]()\]\[[]()\]
+12. [] Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods \[[]()\]\[[]()\]
+13. [] On Representation Knowledge Distillation for Graph Neural Networks \[[]()\]\[[]()\]
